@@ -28,3 +28,6 @@ Impact:
 2)Regional Prioritization: Focused mental health resources in top-affected cities, reducing depression rates in Kalyan and Hyderabad by 10% within a year.
 3)Data-Driven Policies: Helped implement data-backed strategies, increasing engagement in mental health programs by 15%.
 4)Dietary Awareness: Raised awareness about the role of diet, leading to a 20% improvement in students adopting healthier habits.
+
+
+![image alt](https://github.com/ANURAGTAYDE20/Student-Mental-Health-and-Depression-Analysis/blob/69702f6ef80ce996fdf40e527979de2e5598d97c/Screenshot%202024-12-19%20181210.png)
