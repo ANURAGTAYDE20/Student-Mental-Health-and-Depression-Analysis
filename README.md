@@ -31,3 +31,6 @@ Impact:
 
 
 ![image alt](https://github.com/ANURAGTAYDE20/Student-Mental-Health-and-Depression-Analysis/blob/69702f6ef80ce996fdf40e527979de2e5598d97c/Screenshot%202024-12-19%20181210.png)
+
+
+![image alt](https://github.com/ANURAGTAYDE20/Student-Mental-Health-and-Depression-Analysis/blob/7301507e154bd0e3f558d0ee6e0badd9ff7cbf64/Screenshot%202024-12-19%20181228.png)
